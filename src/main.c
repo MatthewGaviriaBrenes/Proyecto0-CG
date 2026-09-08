@@ -2,6 +2,9 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
 #include "algorithms/midpoint.h"
+#include "algorithms/brute_force.h"
+#include "algorithms/incremental.h"
+#include "algorithms/incremental_v2.h"
 
 void draw_scene ();
 
